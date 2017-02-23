@@ -1,2 +1,4 @@
 Hello!
 This is a file in Git!
+
+Branches can be made to work on things without breaking stuff that has been there before.
