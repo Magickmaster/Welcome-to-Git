@@ -1,1 +1,1 @@
-Addingn new documents is really easy with Git GUI
+Adding new documents is really easy with Git GUI
